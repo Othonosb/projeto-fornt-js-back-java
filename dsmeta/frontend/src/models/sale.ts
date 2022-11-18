@@ -4,6 +4,5 @@ export type Sale = {
     "date":string;
     "visited": number;
     "deals": number;
-    "amount": number
-    
+    "amount": number   
 }
